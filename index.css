@@ -26,12 +26,12 @@ padding: -5em;
   border: 0.5vw solid orange; border-top: none; border-bottom: none;
 }
 .btn-1 {border: 1px solid orange; text-align: center; background-color: orange; 
-  font-weight: bold; width: 20vw; height: 10vw; font-size: 3vw;
+  font-weight: bold; width: 30vw; height: 10vw; font-size: 3vw;
 }
 .btn-2 {
   font-size: 3vw;
   height: 10vw;
-  width: 20vw;
+  width: 30vw;
 }
 .flex-div {display: flex;
   justify-content: space-around;
