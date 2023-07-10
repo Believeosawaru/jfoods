@@ -1,0 +1,38 @@
+body {font-family: serif; font-size: 5vw;}
+h1, h2 {color: orange; text-align: center;
+  font-family: Sans-Serif;
+}
+section {border-top: 0.5vw dashed black;
+  margin-top: 0.5em;
+}
+svg {
+ height: 50%;
+ width: 50%;
+ margin-left: 10px;
+ display: flex;
+ justify-content: center;
+}
+.tasty {text-align: center;}
+.img-div {display: flex; justify-content: center; align-items: center;}
+.cta {border: 1px dashed orange; text-align:
+center; background-color: orange; margin: 0
+3em 0 3em; font-weight: bold;
+padding: -5em;
+}
+.sss {margin-top: -1em;}
+.slant-p {font-style: italic;}
+.lp {font-size: 2vw;}
+.div1 {
+  border: 0.5vw solid orange; border-top: none; border-bottom: none;
+}
+.btn-1 {border: 1px solid orange; text-align: center; background-color: orange; 
+  font-weight: bold; width: 20vw; height: 10vw; font-size: 3vw;
+}
+.btn-2 {
+  font-size: 3vw;
+  height: 10vw;
+  width: 20vw;
+}
+.flex-div {display: flex;
+  justify-content: space-around;
+}
